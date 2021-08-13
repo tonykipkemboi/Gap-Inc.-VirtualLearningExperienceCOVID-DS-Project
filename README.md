@@ -5,6 +5,13 @@ A project assignment by GAP Inc. during their inaugral 2021 Virtual Experience P
 
 Practice your data analysis, plotting, modeling, and storytelling skills by mimicking the work the Data & Analytics Team did to drive Gap Inc.’s store re-opening strategy in Q1/Q2 2020. If you know data science programming languages like Python, R, SQL, or JavaScript(to name a few), you can use those for this activity. You can also use Excel & its chart/graph functionality as well.
 
+### Sample Viz
+- Infection forecasting using Prophet
+![Plot Prediction](assets/newplot.png)
+
+- Infection forecast trends using Prophet
+![Forecast Trends](assets/trend_forecast.png)
+
 ### Questions:
 1. The most often used metric for overall rate of spread of the disease for a particular geography is casesper capita, which is the number of cases in that region divided by the population. Please calculate theinfection rate per capita by state for June 2020 (if using data from class activity) or for June 2021 if using GitHub data.
 
