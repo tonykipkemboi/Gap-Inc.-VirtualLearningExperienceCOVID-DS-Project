@@ -1,4 +1,4 @@
-# Gap Inc. Virtual Learning Experience COVID DS Project
+# Gap Inc. COVID-19 Data Science Project 
 A project assignment by GAP Inc. during their inaugral 2021 Virtual Experience Program.
 
 ### Assignment:
